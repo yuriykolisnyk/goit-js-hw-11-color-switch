@@ -5,4 +5,4 @@ const e=["#FFFFFF","#2196F3","#4CAF50","#FF9800","#009688","#795548"],t=document
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/colorSwitch.js");
 },{"./sass/main.scss":"clu1","./js/colorSwitch.js":"Kkkx"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-color-switch/src.11cefd08.js.map
+//# sourceMappingURL=/goit-js-hw-11-color-switch/src.f9d5cca4.js.map
